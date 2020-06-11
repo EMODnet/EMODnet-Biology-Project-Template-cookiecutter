@@ -30,7 +30,7 @@ To start a project using this template, you need to install [cookiecutter](https
 $ cookiecutter https://github.com/EMODnet/EMODnet-Biology-Project-Template
 ```
 
-Alternatively, you can download this repository and modify the files yourself. The `{{cookiecutter.directory_name}}` folder is a github repository itself. You can substitute the tags *{{cookiecutter.parameters}}* in the README file under`{{cookiecutter.directory_name}}/README.md` by the correspondent information. The content of this tags is described below.
+Alternatively, you can fork this repository https://github.com/EMODnet/EMODnet-Biology-Project-Template. You will have to replace the {{tags}} manually in the README, and download the data from EMODnet Biology into the `raw_data` directory. The content of these tags is described below.
 
 ## Parameters
 
