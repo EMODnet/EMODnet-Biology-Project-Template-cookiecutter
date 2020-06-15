@@ -27,7 +27,7 @@ This repository contains a template for developing data products in the framewor
 To start a project using this template, you need to install [cookiecutter](https://github.com/cookiecutter/cookiecutter) first. Run the following statement in the command line to create a new project.
 
 ```bash
-$ cookiecutter https://github.com/EMODnet/EMODnet-Biology-Project-Template
+$ cookiecutter https://github.com/EMODnet/EMODnet-Biology-Project-Template-cookiecutter
 ```
 
 Alternatively, you can fork this repository https://github.com/EMODnet/EMODnet-Biology-Project-Template. You will have to replace the {{tags}} manually in the README, and download the data from EMODnet Biology into the `raw_data` directory. The content of these tags is described below.
