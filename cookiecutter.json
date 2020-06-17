@@ -1,7 +1,12 @@
 {
 	"directory_name":"EMODnet-Biology-product_name",
-	"project_name":"EMODnet Biology Data Product",
-	"project_description":"",
+	"product_name":"EMODnet Biology Data Product",
+	"product_introduction":"This project aimed to...",
+	"product_authors":"Product created by...",
+	"product_citation":"Person et al. (2020). Data product",
+	"data_series":"The raw data was accessed from... using the following WFS request:",
 	"data_wfs_request":"http://geo.vliz.be/geoserver/Dataportal/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=Dataportal:eurobis-obisenv_basic&&viewParams=where:datasetid=4659&maxFeatures=50&outputformat=csv",
-	"citation":""
+	"data_product_description":"We developed this product...Our main findings were...",
+	"link_download":"~/link/to/download/product.zip",
+	"link_code":"~/link/to/code.git"
 }
